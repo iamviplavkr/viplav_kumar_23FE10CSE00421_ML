@@ -9,7 +9,7 @@ Program: B.Tech Computer Science Engineering
 
 University: Manipal University Jaipur
 
-Course: Machine Learning Lab
+Course: Machine Learning Lab ( 6TH SEMESTER )
 
 📌 Repository Overview
 
