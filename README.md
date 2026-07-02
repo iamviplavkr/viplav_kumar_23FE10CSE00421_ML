@@ -1,7 +1,7 @@
 📘 Machine Learning Lab Repository
 👤 Student Information
 
-Name: Viplav Kumar
+Name: VIPLAV KUMAR
 
 Enrollment Number: 23FE10CSE00421
 
